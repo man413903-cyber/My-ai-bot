@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # --- कॉन्फ़िगरेशन ---
-TELEGRAM_TOKEN = "8864000200:AAETXZ9l0VUwtZw8RHKm35eP5ONR5Met5L0"
+TELEGRAM_TOKEN = "8970005691:AAH3j4SgjxPlkpalm-OlW8PRR_1Or_N_TqQ"
 GEMINI_API_KEY = "AQ.Ab8RN6LVVLGdIB-Z1YtLPzEWlJ8rp2w0hR2CgWh9Ak9j8-zdBQ"
 MY_TELEGRAM_ID = 8587752591
 
